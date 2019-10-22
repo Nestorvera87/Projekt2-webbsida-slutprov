@@ -33,7 +33,7 @@ main{
 	background-color:#000;
  }
  #logo{
-	background-image:url('../images/stockholmfootvolley.jpg');
+	background-image:url('stockholmfootvolley.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 30%;
@@ -193,7 +193,7 @@ small{
 		width: 90%;
 		margin: auto;
 	}
-	#logo{background-image:url('../images/stockholmfootvolley.jpg');
+	#logo{background-image:url('images/stockholmfootvolley.jpg');
 		background-repeat: no-repeat;
 		background-size: 15%;
 		background-position: center;
